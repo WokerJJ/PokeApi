@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+}
+a{
+   width: 30%;
+}
+div.navbar-nav{
+    width: 100%;
+}
+aside{
+    text-align: center;
+    margin: 20px 20%;
+    height: 90%;
+    padding: 25px;
+    background-color: rgb(0,0,0,.8);
+    color: white;
+}
+table{
+    text-align: center;
+}
